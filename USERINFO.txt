@@ -5,3 +5,4 @@ TECNO_KG510233~TECNO~India
 RMX371010246~realme~Bangladesh
 RMX371010246~realme~India
 RMX320110272~realme~Bangladesh
+RMX320110272~realme~India
