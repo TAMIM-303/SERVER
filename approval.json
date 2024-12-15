@@ -1,1 +1,7 @@
-00CN_3_47I
+{
+    "approved": [
+        "00CN_3_47I",    // Add the new device ID here
+        "DEVICE_ID_2",
+        "DEVICE_ID_3"
+    ]
+}
