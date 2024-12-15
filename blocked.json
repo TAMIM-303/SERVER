@@ -30,5 +30,13 @@
         "country": "Country",
         "status": "approved",
         "timestamp": 1734298310
+    },
+    {
+        "device_key": "Mr-VMTAXOTKXMDE5OXUWX2EXOTK=05818102NUJUHTFREP351SMPPE",
+        "model": "DeviceModel",
+        "brand": "DeviceBrand",
+        "country": "Country",
+        "status": "approved",
+        "timestamp": 1734298692
     }
 ]
