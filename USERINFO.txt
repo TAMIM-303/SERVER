@@ -1,5 +1,1 @@
-approved_devices:
-Nokia X6~Nokia
-
-
-free_trials:
+free_trial
