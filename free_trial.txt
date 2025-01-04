@@ -1,1 +1,2 @@
+<unique_key>|<expiry_date>
 
